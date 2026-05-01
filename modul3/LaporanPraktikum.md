@@ -7,7 +7,7 @@
 #### soal1.go
 
 ```go
-package main
+package main 
 import (
 	"fmt"
 )
