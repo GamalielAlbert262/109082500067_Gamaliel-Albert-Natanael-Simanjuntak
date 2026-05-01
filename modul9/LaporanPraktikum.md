@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 9  - ARRAY </h1>
 <p align="center">[Gamaliel Albert Natanael Simanjuntak] - [109082500067]</p>
 
 ## Unguided 
@@ -18,5 +18,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/)
 [penjelasan]
