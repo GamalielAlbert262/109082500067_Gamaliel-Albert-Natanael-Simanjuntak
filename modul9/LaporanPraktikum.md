@@ -63,7 +63,7 @@ func main() {
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com//GamalielAlbert262/109082500067_Gamaliel-Albert-Natanael-Simanjuntak/blob/main/modul9/outputscreenshot/soal1.png)
 
-[penjelasan]
+#### [penjelasan]
 Program ini dibuat untuk menentukan posisi sebuah titik terhadap dua lingkaran pada bidang koordinat. Setiap lingkaran didefinisikan oleh titik pusat (cx,cy)(cx, cy)(cx,cy) dan jari-jari rrr, sedangkan titik yang diuji memiliki koordinat (x,y)(x, y)(x,y).
 Proses utama dalam program ini adalah menghitung jarak antara titik dengan pusat masing-masing lingkaran menggunakan rumus jarak Euclidean:
 d=(x−cx)2+(y−cy)2d = \sqrt{(x - cx)^2 + (y - cy)^2}d=(x−cx)2+(y−cy)2​
@@ -84,3 +84,4 @@ Titik berada di luar kedua lingkaran
 
 
 Dengan demikian, program ini mengimplementasikan konsep struktur data, fungsi, operasi matematika, dan percabangan untuk menyelesaikan permasalahan geometri sederhana.
+
