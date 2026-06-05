@@ -47,3 +47,8 @@ func main() {
 ![Screenshot Output Unguided 1_1](https://github.com/GamalielAlbert262/109082500067_Gamaliel-Albert-Natanael-Simanjuntak/blob/main/modul12/outputscreenshot/soal1.png)
 
 #### [penjelasan]
+Program pilkart digunakan untuk menghitung hasil pemilihan ketua RT. Program membaca data suara hingga ditemukan angka 0, memvalidasi suara (hanya nomor calon 1–20 yang sah), menghitung jumlah suara masuk dan suara sah, lalu menampilkan perolehan suara setiap calon yang memperoleh suara.
+
+Program menerapkan konsep array, perulangan, percabangan, dan validasi data untuk melakukan rekapitulasi suara secara otomatis.
+
+
